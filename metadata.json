@@ -1,0 +1,8 @@
+{
+  "name": "DUYIT.NET AI Hub",
+  "description": "A premium AI workspace providing cutting-edge tools for text generation, image creation, video synthesis, and voice processing powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
